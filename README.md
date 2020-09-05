@@ -15,7 +15,7 @@ I'm JesseBett,a Bsc IT student at Kabarak University,I love web development  and
 
 ![Jesse-Bett's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=Jesse-Bett&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919)
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesse-Bett&hide=html&layout=compact" />
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesse-Bett&hide=html&layout=compact"/>\n
 
 
 ### Programming Languages 🌐
