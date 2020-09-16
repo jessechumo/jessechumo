@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 I'm JesseBett,a Bsc IT student at Kabarak University,I love web development  and i'm currently stacking up with MERN.
-- 😄 Pronouns: He/himuselfu
-- ⚡ Fun fact:I play soccer LW/RM
-
+- 😄 Pronouns: He/himself.
 
 ### Profile Summary
 
