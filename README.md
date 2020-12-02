@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-build 'em stuff.
+I am not a robot
 - 😄 Pronouns: He/himself.
 
 ### Profile Summary
