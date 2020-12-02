@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm JesseBett,a Bsc IT student at Kabarak University,I love web development  and i'm currently stacking up with MERN.
+build 'em stuff.
 - 😄 Pronouns: He/himself.
 
 ### Profile Summary
