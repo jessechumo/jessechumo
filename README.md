@@ -1,7 +1,6 @@
-### Hi there 👋, Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=40341693&style=flat-square&color=0088cc)
+## Hi there 👋, Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=40341693&style=flat-square&color=0088cc)
 
 
-- 😄 Pronouns: He/himself.
 
 ### Profile Summary
 
