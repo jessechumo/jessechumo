@@ -17,3 +17,8 @@
 ### Languages used
 
 <img width="300px" length="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesse-Bett&&show_icons=true&title_color=000000&icon_color=2A75CF&text_color=000000&bg_color=ffffff"/> <br/>
+
+## My social links
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@bettJesse)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in)
