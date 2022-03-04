@@ -10,7 +10,7 @@
 [![social-life:inavtive](https://img.shields.io/badge/social--life-inactive-lightgrey)](https://img.shields.io/badge/social--life-inactive-lightgrey)
 
 
-![Jesse-Bett's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=Jesse-Bett&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=131723)
+![Jesse-Bett's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=Jesse-Bett&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=232528)
 
 
 
