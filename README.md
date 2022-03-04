@@ -16,7 +16,7 @@
 
 ### Languages used
 
-<img width="300px" length="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesse-Bett&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919"/> <br/>
+<img width="300px" length="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesse-Bett&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=000000"/> <br/>
 
 ## My social links
 
