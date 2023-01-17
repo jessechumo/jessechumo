@@ -10,14 +10,6 @@
 [![social-life:inavtive](https://img.shields.io/badge/social--life-inactive-lightgrey)](https://img.shields.io/badge/social--life-inactive-lightgrey)
 
 
-![Jesse-Bett's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=Jesse-Bett&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=232528)
-
-
-
-### Languages used
-
-<img width="300px" length="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesse-Bett&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=232528"/> <br/>
-
 ### My social links
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@BettJesse)
