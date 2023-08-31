@@ -7,3 +7,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jessekip21@gmail.com)
 
 
+![maisha](https://github.com/Jesse-Bett/Jesse-Bett/assets/40341693/b457c7fa-f412-46b6-8e52-50d8b6e52085)
