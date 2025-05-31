@@ -1,4 +1,4 @@
-## Hi there 👋, Glad to see you! &nbsp;
+## Hi there 👋🏾, Glad to see you! &nbsp;
 
 ### My social links
 
