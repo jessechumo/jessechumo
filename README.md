@@ -2,7 +2,7 @@
 
 ### Hi there 👋🏾, Glad to see you! &nbsp;
 
-Backend & platform engineer. M.S. CS, UT Arlington. Interested in reliable systems and software security.
+Backend & platform engineer. M.S. Computer Science, UT Arlington. Interested in reliable systems and software security.
 
 Currently building [pulse-platform](https://github.com/jessechumo/pulse-platform) a production-grade Python platform on Kubernetes with Terraform, CI/CD, SLOs, and chaos testing.
 
